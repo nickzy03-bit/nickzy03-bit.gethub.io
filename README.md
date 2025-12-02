@@ -2,6 +2,6 @@
 
 # Hi, I'm Nickson!
 
-### 💼 **Junior Developer**
+### 💼 **Junior Software Developer**
 
 ---
